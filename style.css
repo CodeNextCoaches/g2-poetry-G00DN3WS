@@ -1,0 +1,43 @@
+header{
+
+	border: 3px solid #012432
+	background-image: url(img/Pretty-Sunset.png);
+	background-position: center;
+	background-size: 200px 200px;
+
+}
+
+body {
+
+	text-align: center;
+	font-size: 2em;
+	background-color: red
+
+}
+
+nav ul li {
+
+		list-style: none;
+
+	}
+
+	#tupac-poem img {
+
+		width: 150px;
+		height: 200px;
+
+	}
+
+	#shel-poem img{
+
+		width: 130px;
+		height: 180px;
+
+	}
+
+	#rosarios-poem img{
+
+	width: 10%
+	height: auto;
+
+	}
